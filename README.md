@@ -22,6 +22,7 @@ Project trên sử dụng hàm exec trên php để thực hiện giao tiếp d�
 À xíu quên: Bộ test này nằm trong thư mục problem/result/result.php được lưu trong mảng cùng tên
 </br>
 Note: Dùng \n để xuống dòng
+</br>
 ![](https://i.imgur.com/7FzsEWf.png)
 ## BUG AND FEATURE 
 Vì đây là một project nhỏ mang tính demo nên tác giả sẽ không hổ trợ để phát triển
