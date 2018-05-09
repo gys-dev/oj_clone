@@ -1,4 +1,6 @@
 # OJ CLONE
+![img](https://i.imgur.com/GidZtCQ.png)
+Xem demo tại thư mục problem. Và video [video](https://www.youtube.com/watch?v=2nG2I4Gb7Q4)
 ## HOW IT WORK
 OJ CLONE là một project nhỏ giúp mình hiểu rõ cơ chế chấm bài trên các trang như codeforce, oj, spoj,...
 </br>
@@ -20,12 +22,15 @@ Project trên sử dụng hàm exec trên php để thực hiện giao tiếp d�
 À xíu quên: Bộ test này nằm trong thư mục problem/result/result.php được lưu trong mảng cùng tên
 </br>
 Note: Dùng \n để xuống dòng
+![](https://i.imgur.com/7FzsEWf.png)
 ## BUG AND FEATURE 
 Vì đây là một project nhỏ mang tính demo nên tác giả sẽ không hổ trợ để phát triển
 <br>
 Không khuyến khích sử dụng mã nguồn này làm dự án thực tế vì còn nhiều yếu điểm mang tính chết người như: Chưa xử lí sâu trong việc bảo mật upload file; file mã nguồn người dùng phải chứa chuỗi int main(){ theo đúng định dạng thì mới chạy đúng; tài liệu phải được nhúng từ google drive
 ## Thông tin tác giả
 Tên: Trần Đức Ý
+</br>
 email: ducy23061999.ghetdoi@gmail.com
+<br>
 Liên hệ FB: [Here](https://www.facebook.com/Tranducy1999)
 
