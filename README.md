@@ -31,7 +31,7 @@ Không khuyến khích sử dụng mã nguồn này làm dự án thực tế v�
 ## Thông tin tác giả
 Tên: Trần Đức Ý
 </br>
-email: ducy23061999.ghetdoi@gmail.com
+email: ducyk41cntt@gmail.com
 <br>
 Liên hệ FB: [Here](https://www.facebook.com/Tranducy1999)
 
